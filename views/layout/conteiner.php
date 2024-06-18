@@ -5,7 +5,7 @@
             <div class="windows_one">
                 <h1>GESTIÓN INTEGRAL DE TRÁMITES DEL AUTOMOTOR</h1>
                 <p>Acercanos tu consulta y te estaremos brindando el mejor asesoramiento posible.</p>
-                <a href="<?= base_url ?>inicio/registro">
+                <a href="<?= base_url ?>home/registro">
                     <button>Contactanos</button>
                 </a>
             </div>

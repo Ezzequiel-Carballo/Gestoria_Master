@@ -38,7 +38,7 @@
             <li><i class='bx bx-current-location'></i><h4>Lomas de Zamora, Ciudad de Buenos Aires</h4></li>
         </ul>
 
-        <form action="<?=base_url?>inicio/save" method="POST" class="form" autocomplete="off">
+        <form action="<?=base_url?>home/save" method="POST" class="form" autocomplete="off">
                 
                 <label for="name" class="form-label">Nombre:</label>
                 <input type="text" class="form-input"  name="name" placeholder="Escriba su nombre..."/>

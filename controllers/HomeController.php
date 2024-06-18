@@ -2,7 +2,7 @@
 
 require_once 'models/usuarios.php';
 
-class inicioController{
+class homeController{
 
     public function index(){
 
@@ -22,11 +22,6 @@ class inicioController{
     public function avisoLegal(){
 
         require_once 'views/politicas/aviso_legal.php';
-    }
-
-    public function error(){
-
-        require_once 'views/error/error_pagina.php';
     }
 
     public function save(){
@@ -110,7 +105,7 @@ class inicioController{
         }
         // Clean output buffer and send headers
         ob_end_clean();
-        header("Location: " . base_url . "inicio/registro");
+        header("Location: " . base_url . "home/registro");
         exit();
     }
     

@@ -4,6 +4,6 @@ class  errorController{
 
     public function index(){
 
-        require_once 'views/return/error_pagina.php';
+        require_once 'views/error/error_pagina.php';
     }
 }
