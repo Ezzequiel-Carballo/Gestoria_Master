@@ -24,6 +24,11 @@ class inicioController{
         require_once 'views/politicas/aviso_legal.php';
     }
 
+    public function error(){
+
+        require_once 'views/error/error_pagina.php';
+    }
+
     public function save(){
         ob_start();
 

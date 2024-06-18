@@ -12,7 +12,7 @@
         <main class="nav" id="inicio">
             <div class="logo">
                 <a href="<?=base_url?>">
-                    <h1>Gestoria Master</h1>
+                    <h1>gestoria master</h1>
                 </a>
             </div>
             <ul>

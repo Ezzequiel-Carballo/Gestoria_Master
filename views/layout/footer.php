@@ -1,7 +1,7 @@
         <section>
             <ul class="footer">
                 <li>
-                    <p>&copy 2023 Gestoria Master - Todos los derechos reservados |</p>
+                    <p>&copy 2023 gestoria master - Todos los derechos reservados |</p>
                 </li>
                 <li>
                     <a href="<?=base_url?>inicio/politicaDePrivacidad">Politicas de Privacidad |</a>

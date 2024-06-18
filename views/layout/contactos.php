@@ -1,6 +1,6 @@
 <section class="contactos" id="contactos">
     <div class="titulo">
-        <h1>Gestoria Master</h1>
+        <h1>gestoria master</h1>
         <h3>Nuestro compromiso siempre es con vos.</h3>
         <div>
             <ul class="redes">
