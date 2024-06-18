@@ -105,7 +105,7 @@ class homeController{
         }
         // Clean output buffer and send headers
         ob_end_clean();
-        header("Location: " . base_url . "home/registro");
+        header("Location: " . BASE_URL . "home/registro");
         exit();
     }
     

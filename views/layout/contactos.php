@@ -6,17 +6,17 @@
             <ul class="redes">
                 <li>
                     <a href="">
-                        <img src="<?=base_url?>asset/img/facebook-white.png">
+                        <img src="<?=BASE_URL?>asset/img/facebook-white.png">
                     </a>
                 </li>
                 <li>
                     <a href="">
-                        <img src="<?=base_url?>asset/img/whatsapp-black.png">
+                        <img src="<?=BASE_URL?>asset/img/whatsapp-black.png">
                     </a>
                 </li>
                 <li>
                     <a href="">
-                        <img src="<?=base_url?>asset/img/twitter-white2.png">
+                        <img src="<?=BASE_URL?>asset/img/twitter-white2.png">
                     </a>
                 </li>
             </ul>
@@ -50,7 +50,7 @@
     </div>
     <div class="btn_inicio">
         <a href="#inicio">
-            <img src="<?=base_url?>asset/img/flecha_arriba_black.png">
+            <img src="<?=BASE_URL?>asset/img/flecha_arriba_black.png">
         </a>                
     </div>
 </section>

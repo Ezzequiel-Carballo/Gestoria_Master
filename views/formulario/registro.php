@@ -25,7 +25,7 @@
     <?php endif; ?>
 
     <div class="contacts">
-        <img src="<?=base_url?>/asset/img/fondo2.jpg">
+        <img src="<?=BASE_URL?>/asset/img/fondo2.jpg">
         <div class="title_info">
             <h1>Informacion de contacto</h1>
             <h1>Envianos tu mensaje</h1>
@@ -38,7 +38,7 @@
             <li><i class='bx bx-current-location'></i><h4>Lomas de Zamora, Ciudad de Buenos Aires</h4></li>
         </ul>
 
-        <form action="<?=base_url?>home/save" method="POST" class="form" autocomplete="off">
+        <form action="<?=BASE_URL?>home/save" method="POST" class="form" autocomplete="off">
                 
                 <label for="name" class="form-label">Nombre:</label>
                 <input type="text" class="form-input"  name="name" placeholder="Escriba su nombre..."/>

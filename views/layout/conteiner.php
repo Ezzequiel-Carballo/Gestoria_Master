@@ -1,11 +1,11 @@
 <div class="header">
     <div class="main_one">
         <figure>
-            <img src="<?= base_url ?>asset/img/autos_1.jpg">
+            <img src="<?= BASE_URL ?>asset/img/autos_1.jpg">
             <div class="windows_one">
                 <h1>GESTIÓN INTEGRAL DE TRÁMITES DEL AUTOMOTOR</h1>
                 <p>Acercanos tu consulta y te estaremos brindando el mejor asesoramiento posible.</p>
-                <a href="<?= base_url ?>home/registro">
+                <a href="<?= BASE_URL ?>home/registro">
                     <button>Contactanos</button>
                 </a>
             </div>
@@ -60,7 +60,7 @@
 </section>
 <section class="nosotros" id="nosotros">
     <div class="nosotros_img">
-        <img src="<?= base_url ?>asset/img/manos.jpg">
+        <img src="<?= BASE_URL ?>asset/img/manos.jpg">
     </div>
     <div class="titular">
         <h2>QUIENES SOMOS</h2>

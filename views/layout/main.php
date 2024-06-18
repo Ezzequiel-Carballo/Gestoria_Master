@@ -3,7 +3,7 @@
     <HEAD>
         <title> Gestoria Automotriz SEC</title>
         <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="<?=base_url?>asset/css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="<?=BASE_URL?>asset/css/style.css"/>
         <meta name="viewport" content="width=divice-width, initial-scale=1.0"> 
         <!-- box iconos -->
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -11,13 +11,13 @@
     <BODY>
         <main class="nav" id="inicio">
             <div class="logo">
-                <a href="<?=base_url?>">
+                <a href="<?=BASE_URL?>">
                     <h1>gestoria master</h1>
                 </a>
             </div>
             <ul>
                 <li>
-                    <a href="<?=base_url?>">Home</a>
+                    <a href="<?=BASE_URL?>">Home</a>
                 </li>
                 <li>
                     <a href="#servicios">Servicios</a>
